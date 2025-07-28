@@ -1,0 +1,11 @@
+data-dashboard/
+├── public/
+├── src/
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── other files...
+├── package.json
+└── other config files...
+
+// This is project Structure
