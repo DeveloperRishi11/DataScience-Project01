@@ -24,7 +24,6 @@ code {
   background: #667eea;
   cursor: pointer;
 }
-
 .slider::-moz-range-thumb {
   height: 20px;
   width: 20px;
