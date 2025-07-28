@@ -1,3 +1,6 @@
+
+// This is project Structure
+
 data-dashboard/
 ├── public/
 ├── src/
@@ -8,4 +11,10 @@ data-dashboard/
 ├── package.json
 └── other config files...
 
-// This is project Structure
+ Quick Summary:
+
+Create React App: npx create-react-app data-dashboard
+Install Charts: npm install recharts
+Install Tailwind: npm install -D tailwindcss postcss autoprefixer
+Replace 3 files: App.js, index.css, tailwind.config.js
+Run: npm start
