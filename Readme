@@ -17,4 +17,4 @@ Create React App: npx create-react-app data-dashboard
 Install Charts: npm install recharts
 Install Tailwind: npm install -D tailwindcss postcss autoprefixer
 Replace 3 files: App.js, index.css, tailwind.config.js
-Run: npm start
+Run: npm start(This will run project)
